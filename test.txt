@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <title>大胸妹 - 豆瓣美女 - 豆瓣妹子 - 豆瓣福利 | 真实的妹子私房照分享社区</title>
+<link rel="shortcut icon" type="image/x-icon" href="http://www.dbmeinv.com/dbgroup/resource/images/favicon.ico" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-siteapp" /> 
+<meta name="description" content="豆瓣妹子是最真实的妹子私房照分享社区。收集豆瓣羞涩组等热门小组的妹子私房照福利，豆瓣宅男福利，在这有豆瓣妹子的私房照和豆瓣福利、豆瓣大尺度照片、宅男福利，也可以使用豆瓣帖子搜索功能。">
+<meta name="keywords" content="豆瓣妹子,豆瓣美女,豆瓣福利,豆瓣妹子网,豆瓣女,微拍福利,豆瓣美妞,妹子,妹子网,豆瓣妹子的私房照,豆瓣小组妹子,豆瓣妹子福利,豆瓣美女私房照,豆瓣帖子搜索,请不要害羞"/>
+<link rel="stylesheet" href="http://www.dbmeinv.com/dbgroup/resource/css/bootstrap.min.css">
+<link rel="stylesheet" href="http://www.dbmeinv.com/dbgroup/resource/css/bootstrap.new.theme.min.css">
+<link rel="stylesheet" href="http://www.dbmeinv.com/dbgroup/resource/css/dbmeinv.css">
+<script src="http://www.dbmeinv.com/resource/js/plugin/jquery.min.js"></script>
+<script src="http://www.dbmeinv.com/dbgroup/resource/js/dbmeinv.js"></script>
+<script type="text/javascript">
+var basePath = "http://www.dbmeinv.com";
+var pc_flag = checkSystem();
+</script>
+<!--[if lt IE 9]>
+	<script src="http://www.dbmeinv.com/resource/js/plugin/bootstrap/js/html5shiv.min.js"></script>
+	<script src="http://www.dbmeinv.com/resource/js/plugin/bootstrap/js/respond.min.js"></script>
+<![endif]-->  </head>
+ <body>
+	<!-- 头部 -->
+<!--[if lte IE 9]>
+<div class="container">
+<p style="color:red;text-align:center">你正在使用<strong>过时</strong>的浏览器，豆瓣美女 不提供支持。 请 <a href="http://browsehappy.com/" target="_blank">升级浏览器</a>以获得更好的体验！</p>
+</div>
+<![endif]-->
+<div class="header">
+	<nav class="navbar navbar-inverse navbar-static-top navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+				<a href="http://www.dbmeinv.com" class="navbar-brand"><b>豆瓣美女</b></a>
+			</div>
+			<ul class="nav navbar-nav">
+				<li id="dbgroup_menu"><a href="http://www.dbmeinv.com/dbgroup/show.htm">首页</a></li>
+				<li id="dbgroup_topics"><a href="http://www.dbmeinv.com/dbgroup/topics.htm">找帖子</a></li>
+				<li class="dropdown">
+		          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">找妹子<span class="caret"></span></a>
+		          <ul class="dropdown-menu">
+		            <li id="users_menu"><a href="http://www.dbmeinv.com/dbgroup/users.htm">找妹子</a></li>
+		            <li role="separator" class="divider"></li>
+		            <li id="district_menu" ><a href="http://www.dbmeinv.com/dbgroup/district.htm">妹子地区统计</a></li>
+		          </ul>
+		        </li>
+				<li id="dbgroup_rank"><a href="http://www.dbmeinv.com/dbgroup/rank.htm">豆瓣福利</a></li>
+				<li id="dbgroup_today"><a href="http://www.dbmeinv.com/dbgroup/today.htm">今日妹子</a></li>
+				<li id="dbgroup_current"><a href="http://www.dbmeinv.com/dbgroup/current.htm">豆瓣小组</a></li>
+				<!--<li id="dbgroup_random"><a href="http://www.dbmeinv.com/dbgroup/random.htm">穿越妹子</a></li> -->
+				<li id="videos_menu"><a href="http://www.dbmeinv.com/dbgroup/videos.htm">微拍福利</a></li>
+				<li id=""><a href="http://www.dbmeinv.com/dbgroup/app.htm">APP</a></li>
+				
+			</ul>
+				<ul class="nav user-bar navbar-nav navbar-right">
+					<li><a href="http://www.dbmeinv.com/dbgroup/register.htm">注册</a></li>
+					<li><a href="http://www.dbmeinv.com/dbgroup/login.htm">登录</a></li>
+				</ul>
+
+			<!-- <ul class="nav navbar-nav navbar-right">
+				<li class="nav-search hidden-xs">
+					<form class="navbar-form form-search" action="" method="GET">
+						<div class="form-group">
+							<input class="form-control" name="q" type="text" value="" placeholder="搜索本站内容" />
+						</div>
+						<i class="fa btn-search fa-search"></i> <i class="fa btn-close fa-times-circle"></i>
+					</form>
+				</li>
+				<li class="notification-count">
+	            	<a href="javascript:;" class="" title="通知"><i class="fa fa-bell"></i><span class="count">1</span></a>
+	          	</li>
+			</ul> -->
+		</div>
+	</nav>
+</div>
+
+
+	<!-- 内容块 -->
+    <div id="main" class="main-container container">
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div style="text-align: center">
+					<!--<b style="color: #EB5424;">豆瓣美女</b>，是基于豆瓣请不要害羞、最靠谱的恋爱组、大胸妹、大长腿等小组的第三方爆照交友社区-->
+					<b style="color: #EB5424;">豆瓣美女，真实的妹子私房照社区。</b>
+					<!-- <a href="http://www.dbmeinv.com/dbgroup/app.htm">豆瓣美女APP下载</a>&nbsp;|&nbsp; -->
+					<a href="http://www.dbmeinv.com/dbgroup/feedback.htm">加入豆友交流(好孩子看不见)群</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<div style="text-align: center">
+					<b style="color: red">斐讯 K1 双频 1200兆 路由器免费拿(机会不多,注意看宝贝详情描述)</b>
+					<a href="http://s.click.taobao.com/BpAKJdx" target="_blank">直达链接</a> | 
+					<a href="https://phicommfsks.tmall.com/p/rd192887.htm?spm=a220o.1000855.0.0.v5JlUp" target="_blank">返现教程</a>
+				</div>
+			</div>
+		</div>
+
+    	<div class="panel panel-default">
+    		<div class="panel-heading clearfix">
+				<ul class="nav nav-pills" style="margin: 0 0 0 0">
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm">所有</a>
+	                </li>
+	                <li class="active">
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=2">大胸妹</a>
+	                </li>
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=6">小翘臀</a>
+	                </li>
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=7">黑丝袜</a>
+	                </li>
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=3">美腿控</a>
+	                </li>
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=4">有颜值</a>
+	                </li>
+	                <li >
+	                    <a href="http://www.dbmeinv.com/dbgroup/show.htm?cid=5">大杂烩</a>
+	                </li>
+		        </ul>
+			</div>
+			
+			<div class="panel-body">
+				<ul class="thumbnails">
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/635662" class="link" target="_topic_detail">
+							                	<img class="height_min" title="已爆造，求勾搭" 
+							                		 alt="已爆造，求勾搭"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww1.sinaimg.cn/bmiddle/0060lm7Tgw1f1av0su5vuj30dw0afjsh.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/635662" class="link" target="_topic_detail">
+				                          			已爆造，求勾搭
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="536026" topic-id="83963338"></span>
+					                            <span class="starcount" topic-image-id="536026">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/634044" class="link" target="_topic_detail">
+							                	<img class="height_min" title="【晒】蓝色连衣裙" 
+							                		 alt="【晒】蓝色连衣裙"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww4.sinaimg.cn/bmiddle/0060lm7Tgw1f193zepawuj30c60iadh9.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/634044" class="link" target="_topic_detail">
+				                          			【晒】蓝色连衣裙
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534676" topic-id="83919259"></span>
+					                            <span class="starcount" topic-image-id="534676">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/634044" class="link" target="_topic_detail">
+							                	<img class="height_min" title="【晒】蓝色连衣裙" 
+							                		 alt="【晒】蓝色连衣裙"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww1.sinaimg.cn/bmiddle/0060lm7Tgw1f193zerg94j30cn0iymyh.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/634044" class="link" target="_topic_detail">
+				                          			【晒】蓝色连衣裙
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534674" topic-id="83919259"></span>
+					                            <span class="starcount" topic-image-id="534674">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/633938" class="link" target="_topic_detail">
+							                	<img class="height_min" title="晚安" 
+							                		 alt="晚安"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f194171pjij30dw0ii40g.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/633938" class="link" target="_topic_detail">
+				                          			晚安
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534576" topic-id="83917424"></span>
+					                            <span class="starcount" topic-image-id="534576">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/633461" class="link" target="_topic_detail">
+							                	<img class="height_min" title="元宵节快乐！" 
+							                		 alt="元宵节快乐！"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f1946t0976j30dw0dygnw.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/633461" class="link" target="_topic_detail">
+				                          			元宵节快乐！
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534164" topic-id="83909205"></span>
+					                            <span class="starcount" topic-image-id="534164">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/633383" class="link" target="_topic_detail">
+							                	<img class="height_min" title="【晒】阿姨祝各位组友元宵节快乐" 
+							                		 alt="【晒】阿姨祝各位组友元宵节快乐"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww1.sinaimg.cn/bmiddle/0060lm7Tgw1f1947kv17kj30c50f1tav.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/633383" class="link" target="_topic_detail">
+				                          			【晒】阿姨祝各位组友元
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534099" topic-id="83906797"></span>
+					                            <span class="starcount" topic-image-id="534099">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/633308" class="link" target="_topic_detail">
+							                	<img class="height_min" title="晒很凶" 
+							                		 alt="晒很凶"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww4.sinaimg.cn/bmiddle/0060lm7Tgw1f1948ejn2rj30dw0ii770.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/633308" class="link" target="_topic_detail">
+				                          			晒很凶
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534039" topic-id="83903654"></span>
+					                            <span class="starcount" topic-image-id="534039">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/633308" class="link" target="_topic_detail">
+							                	<img class="height_min" title="晒很凶" 
+							                		 alt="晒很凶"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww1.sinaimg.cn/bmiddle/0060lm7Tgw1f1948eszu0j30dw0iiwk1.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/633308" class="link" target="_topic_detail">
+				                          			晒很凶
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="534038" topic-id="83903654"></span>
+					                            <span class="starcount" topic-image-id="534038">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/632956" class="link" target="_topic_detail">
+							                	<img class="height_min" title="大胸妹在此" 
+							                		 alt="大胸妹在此"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww3.sinaimg.cn/bmiddle/0060lm7Tgw1f17vypbny9j30dw0ii764.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/632956" class="link" target="_topic_detail">
+				                          			大胸妹在此
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="533677" topic-id="83892020"></span>
+					                            <span class="starcount" topic-image-id="533677">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/632794" class="link" target="_topic_detail">
+							                	<img class="height_min" title="睡不着" 
+							                		 alt="睡不着"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f17vyvjlbyj30dg0jy402.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/632794" class="link" target="_topic_detail">
+				                          			睡不着
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="533551" topic-id="83890186"></span>
+					                            <span class="starcount" topic-image-id="533551">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/631719" class="link" target="_topic_detail">
+							                	<img class="height_min" title="好多哇，秀一下" 
+							                		 alt="好多哇，秀一下"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww1.sinaimg.cn/bmiddle/0060lm7Tgw1f17wdmbv0nj30b20go0t7.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/631719" class="link" target="_topic_detail">
+				                          			好多哇，秀一下
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="532672" topic-id="83867505"></span>
+					                            <span class="starcount" topic-image-id="532672">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/631619" class="link" target="_topic_detail">
+							                	<img class="height_min" title="【晒】饿了啦" 
+							                		 alt="【晒】饿了啦"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww3.sinaimg.cn/bmiddle/0060lm7Tgw1f17wfbo2kmj30dw07tmyb.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/631619" class="link" target="_topic_detail">
+				                          			【晒】饿了啦
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="532591" topic-id="83866715"></span>
+					                            <span class="starcount" topic-image-id="532591">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/630738" class="link" target="_topic_detail">
+							                	<img class="height_min" title="有没有跟我一起去旅游的，2333" 
+							                		 alt="有没有跟我一起去旅游的，2333"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f17wtmjdfuj30ba0f0abf.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/630738" class="link" target="_topic_detail">
+				                          			有没有跟我一起去旅游的
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="531966" topic-id="83849457"></span>
+					                            <span class="starcount" topic-image-id="531966">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/630667" class="link" target="_topic_detail">
+							                	<img class="height_min" title="【晒】昼伏夜出" 
+							                		 alt="【晒】昼伏夜出"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f17wuf52q2j30dw0dwq48.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/630667" class="link" target="_topic_detail">
+				                          			【晒】昼伏夜出
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="531922" topic-id="83848115"></span>
+					                            <span class="starcount" topic-image-id="531922">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/629443" class="link" target="_topic_detail">
+							                	<img class="height_min" title="你们总是嫌弃我 但是我都是发最真实的照片呀" 
+							                		 alt="你们总是嫌弃我 但是我都是发最真实的照片呀"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww4.sinaimg.cn/bmiddle/0060lm7Tgw1f14nzgb6m1j30dw0d0gnh.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/629443" class="link" target="_topic_detail">
+				                          			你们总是嫌弃我 但是我
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="531105" topic-id="83825033"></span>
+					                            <span class="starcount" topic-image-id="531105">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+							                	<img class="height_min" title="［青春就是不下垂］" 
+							                		 alt="［青春就是不下垂］"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww4.sinaimg.cn/bmiddle/0060lm7Tgw1f14o8o0gerj30dw0h8q6c.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+				                          			［青春就是不下垂］
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="530555" topic-id="83811177"></span>
+					                            <span class="starcount" topic-image-id="530555">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+							                	<img class="height_min" title="［青春就是不下垂］" 
+							                		 alt="［青春就是不下垂］"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f14o8ou782j30dw0hf77b.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+				                          			［青春就是不下垂］
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="530554" topic-id="83811177"></span>
+					                            <span class="starcount" topic-image-id="530554">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+							                	<img class="height_min" title="［青春就是不下垂］" 
+							                		 alt="［青春就是不下垂］"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww3.sinaimg.cn/bmiddle/0060lm7Tgw1f14o8uk46kj30dc0gldif.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+				                          			［青春就是不下垂］
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="530553" topic-id="83811177"></span>
+					                            <span class="starcount" topic-image-id="530553">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+							                	<img class="height_min" title="［青春就是不下垂］" 
+							                		 alt="［青春就是不下垂］"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww4.sinaimg.cn/bmiddle/0060lm7Tgw1f14o8vftvjj30dw0iin0l.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+				                          			［青春就是不下垂］
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="530552" topic-id="83811177"></span>
+					                            <span class="starcount" topic-image-id="530552">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+		   						<li class="span3">
+					                <div class="thumbnail" style="text-align: center;">
+					                    <div class="img_single">
+						            		<a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+							                	<img class="height_min" title="［青春就是不下垂］" 
+							                		 alt="［青春就是不下垂］"
+								            		 onerror="img_error(this);"
+								            		 src="http://ww2.sinaimg.cn/bmiddle/0060lm7Tgw1f14o8hpys9j30db0gfdh9.jpg" />
+							            	</a>
+		                    			</div>
+					                    <hr/>
+					                    <div class="bottombar">
+					                        <span class="fl p5">
+					                            <a href="http://www.dbmeinv.com/dbgroup/628751" class="link" target="_topic_detail">
+				                          			［青春就是不下垂］
+				                          		</a>
+					                        </span>
+					                        <span class="fr p5 meta">
+					                            <span class="mstar-empty star" title="加入收藏" topic-image-id="530551" topic-id="83811177"></span>
+					                            <span class="starcount" topic-image-id="530551">0</span>
+					                        </span>
+						                </div>
+					                </div>
+		
+		
+		            			</li>
+				</ul>
+			</div>
+			
+			<div class="panel-footer clearfix">
+				<script type="text/javascript">/*手机广告*/if(pc_flag != "pc") {document.write('<div style="width:90%;overflow:hidden"><script type="text/javascript">var cpro_id = "u1654293";</script' + '>' + '<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script</script' + '></div>');}</script>
+				<!-- 分页 -->
+		        <div class="clearfix">
+					<ul class="pagination">
+    
+     
+    	
+            <li class="active"><span>1<span class="sr-only"><!--(current)--></span></span><li>  
+    	
+            <li><a href="/dbgroup/show.htm?cid=2&pager_offset=2">2</a></li> 
+    	
+            <li><a href="/dbgroup/show.htm?cid=2&pager_offset=3">3</a></li> 
+    	
+            <li><a href="/dbgroup/show.htm?cid=2&pager_offset=4">4</a></li> 
+    
+    	<li><a href="javascript:;" class="ellipse">...</a></li>
+    	<!--<li><a href="/dbgroup/show.htm?cid=2&pager_offset=5000" title="末页">5000</a></li>-->  
+    	<li class="next next_page"><a href="/dbgroup/show.htm?cid=2&pager_offset=2" title="下一页">下一页 &#8594;</a></li>
+    
+    
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div class="mobile-hide">
+			<div class="panel panel-default">
+				<div class="panel-body">
+					<center>
+						<div style="text-align: center;"><script type="text/javascript">/*960*60*/var cpro_id = "u1727280";</script><script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+						<hr/>
+						<script>/*360*/QIHOO_UNION_SLOT={w:960, h:90, ls:"s3942336171",t: "inlay"};</script><script src="http://s.lianmeng.360.cn/so/inlay.js" charset="utf-8"></script>
+					</center>
+				</div>
+			</div>
+		</div>
+		
+    </div>
+    
+    
+	
+    <!-- 底部 -->
+<footer class="footer">
+	<div class="container">
+		<div class="media">
+			<!-- <div class="media-left" style="margin-right: 20px;">
+				<img class="media-object" src="" style="width: 56px;" />
+			</div> -->
+			<div class="media-body">
+				<div class="links">
+					<a href="http://www.dbmeinv.com/dbgroup/videos.htm" baidu_event="friendlink,www.dbmeinv.com,">秒拍福利</a>&nbsp;/&nbsp;
+					<a href="http://www.dbmeinv.com/" baidu_event="friendlink,www.dbmeinv.com,">豆瓣妹子</a>&nbsp;/&nbsp;
+					<a href="http://www.dbmeinv.com/dbgroup/announce.htm">免责声明</a>&nbsp;/&nbsp;
+					<a href="http://www.dbmeinv.com/dbgroup/app.htm">APP下载</a>&nbsp;/&nbsp;
+					<a href="http://www.dbmeinv.com/dbgroup/feedback.htm">站内留言</a>
+				</div>
+				<div class="copyright">
+					豆瓣美女是基于豆瓣请不要害羞、大胸妹、大长腿等豆瓣热门小组的第三方爆照交友社区。<br /> 
+					Copyright&copy;2015 dbmeinv.com 苏ICP备14036269号-2&nbsp;|&nbsp;声明：本站所有图片来源于互联网！若有任何版权问题，请联系我们，我们将立即予以纠正注明来源！
+				</div>
+			</div>
+			<div class="media-right" style="width: 200px; text-align: right;">
+				&nbsp;
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script src="http://www.dbmeinv.com/resource/js/plugin/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://www.dbmeinv.com/resource/js/plugin/other/backtop.js"></script>
+<script src="http://www.dbmeinv.com/dbgroup/resource/js/db_common.js"></script>
+<script type="text/javascript">
+if(pc_flag != "pc") {
+	$(".mobile-hide").hide();
+	document.write('<script type="text/javascript">/*20:3 手机底悬浮*/var cpro_id = "u1668553";</script' + '>' + '<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script</script' + '>');
+    document.write('<script type="text/javascript">/*插屏-进入展开*/ var cpro_id = "u2382969";</script' + '>' + '<script src="http://cpro.baidustatic.com/cpro/ui/cm.js" type="text/javascript"></script</script' + '>');	
+}
+</script> 
+
+<div style="display:none">
+	<!-- baidu tongji -->
+	<script type="text/javascript">
+	var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+	document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F65499fd57541d09e46def2791033d87f' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<!-- cnzz -->
+	<script src="http://s4.cnzz.com/z_stat.php?id=1254770214&web_id=1254770214" language="JavaScript"></script>
+</div>
+    <script type="text/javascript">
+	    $(function (){
+	    	active_menu("dbgroup_menu");
+	    	$(window).manhuatoTop({showHeight : 100,/*设置滚动高度时显示*/ speed : 500 /*返回顶部的速度以毫秒为单位*/	});
+	    	// 当前登陆用户的收藏
+	    	getCurrentUserFavorites();
+	    });
+	    
+    </script>
+ </body>
+</html>
