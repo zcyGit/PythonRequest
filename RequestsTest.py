@@ -13,7 +13,7 @@ def Getpage(url,flag):
 		response=requests.get(url);
 		if flag==True:
 			img=response.content;
-			fileName='image/'+os.path.basename(url);
+			fileName='../image/'+os.path.basename(url);
 			print(fileName);
 			with open(fileName, 'wb') as f:
 				f.write(img);
@@ -36,9 +36,9 @@ def loadPage(url,pageIndex):
 	print(url1);
 	return Getpage(url1,False);
 
-url="http://www.dbmeinv.com/dbgroup/show.htm?cid=2&pager_offset=";
-content=loadPage(url,300);
-pageNumber=301;
+url="http://www.dbmeinv.com/dbgroup/show.htm?cid=3&pager_offset=";
+content=loadPage(url,1);
+pageNumber=2;
 
 while content is not None:
 	imgpattern=re.compile(r'(http:[^\s]*?(jpg|png|gif){1})',re.I);
